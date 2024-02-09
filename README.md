@@ -1,2 +1,1 @@
-# ujian-praktek-pbo-bsdat
-kelompok nakama, ayesha, aulia, devita, revalina
+Nakama: Aulia, Ayesha, Devita, Revalina
